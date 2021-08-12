@@ -6,7 +6,8 @@ The program accepts the input from the user .
 Outputs the meaning of the word.
 If the word doesn't exist , it returns  The word doesn't exist. Please double check it.
 If wrong word is input it also suggest similar words .
-
+for eg: input rainn
+it  would ask if the word is rain or not !
 
 ## Getting Started
 
